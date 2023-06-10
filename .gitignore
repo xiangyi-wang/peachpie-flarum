@@ -1,0 +1,13 @@
+/Server/bin
+/Server/obj
+/Server/Properties
+/Server/*.csproj
+/Server/*.md
+/Website/*.md
+/Website/bin
+/Website/obj
+/Website/Properties
+/Website/*.csproj
+/Website/vendor
+/Website/vendor74
+/Website/vendor82
